@@ -1,0 +1,195 @@
+.navbar-custom{
+    background-color: rgb(65, 65, 65);
+    height: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+.navbar-brand{
+    color: white;
+}
+a{
+    text-decoration: none;
+    margin: .5rem;
+}
+.nav-linkw{
+    color: white;
+}
+
+.nav-linkg{
+    color: grey;
+}
+
+.nav-linkv{
+    color: green
+}
+
+.bgAguas{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hawaii.jpg");
+     
+    
+}
+
+.texto1{
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    text-align: right;
+}
+
+.texto2{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    text-align: right;
+}
+
+
+.btn-trans{
+    background-color:transparent;
+    background-repeat:no-repeat;
+    color: white;
+    border: 2px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    outline: none;
+    position: absolute;
+    top: 70%;
+    right: 23%;
+}
+
+.btn-trans:hover{
+    background-color:transparent;
+    background-repeat:no-repeat;
+    color: white;
+    border: 2px solid green;
+}
+
+.btn-2{
+    position: absolute;
+    background-color: green;
+    color: white;
+    top: 70%;
+    right: 5%;
+}
+
+.btn-2:hover{
+    background-color: green;
+    color: white;
+}
+
+.oradores{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin: 1rem;
+    padding: 0%;
+    border: solid grey 1%;
+    text-align: left;
+    
+}
+
+.cardboton1{
+    color: #000;
+    font-weight: bold;
+    height: 1rem;
+    background-color: rgb(255,215,0);
+    border-radius: .4rem;
+    font-size: small;
+    padding: 1% 2%;
+    margin: auto;
+}
+
+.cardboton2{
+    color: #fff;
+    font-weight: bold;
+    height: 1rem;
+    background-color: rgb(0, 162, 255);
+    border-radius: .4rem;
+    font-size: small;
+    padding: 1% 2%;
+    margin: auto;
+}
+
+.cardboton3{
+    color: #fff;
+    font-weight: bold;
+    height: 1rem;
+    background-color: rgb(126,126,126);
+    border-radius: .4rem;
+    font-size: small;
+    padding: 1% 2%;
+    margin: auto;
+}
+
+.cardboton4{
+    color: #fff;
+    font-weight: bold;
+    height: 1rem;
+    background-color: rgb(255, 0, 0);
+    border-radius: .4rem;
+    font-size: small;
+    padding: 1% 2%;
+    margin: auto;
+}
+
+.card-text{
+    font-size: small;
+}
+
+.honolulu{
+    background-color: rgb(65,65,65);
+}
+
+.imagenhono{
+    width: 100%;
+}
+
+.texthono{
+    display: inline-flexbox;
+    color: #fff;
+}
+.conoce{
+    background-color:transparent;
+    background-repeat:no-repeat;
+    color: white;
+    border: 1px solid white;
+    cursor:pointer;
+    overflow: hidden;
+}
+
+.textareaa{
+    width: 150%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.mini{
+    font-size: x-small;
+    color: grey;
+    text-align: left;
+}
+
+.enviar{
+    background-color: olivedrab;
+    color: #fff;
+    border: none;
+    width: 48%;
+}
+
+.navfooter{
+    background-color: #315a6b;
+    text-align: center;
+}
+
+.navfooteritem{
+    margin-left: 15%;
+    
+}
